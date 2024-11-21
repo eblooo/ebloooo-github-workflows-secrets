@@ -3,3 +3,6 @@
 
 # Codeowners
 .github/  @eblooo/repo-admins
+
+
+syscode-contentech/ @eblooo/contentech-owners
